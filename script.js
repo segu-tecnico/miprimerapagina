@@ -1,4 +1,4 @@
-function showAlert() { alert('¡Hola, esta es una alerta desde JavaScript!'); }
+function showAlert() { alert('¡No confies en todo el mundo!!'); }
 
 const form = document.getElementById('myForm');
 
